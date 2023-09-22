@@ -1,0 +1,11 @@
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.Form1.resources
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.Form2.resources
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.Form3.resources
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.Form4.resources
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.vbproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.TrustInfo.xml
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.exe.manifest
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.exe
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.xml
+C:\Users\Adrian\Documents\Visual Studio 2010\Projects\AAAAAAAAAAAAA\AAAAAAAAAAAAA\obj\x86\Release\AAAAAAAAAAAAA.pdb
